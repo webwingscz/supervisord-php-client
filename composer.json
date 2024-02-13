@@ -1,6 +1,6 @@
 {
-    "name": "mondalaci/supervisor-client",
-    "version": "2.0.0",
+    "name": "webwings/supervisor-client",
+    "version": "2.0.1",
     "type": "library",
     "description": "PHP library for supervisord",
     "keywords": ["supervisor", "supervisord"],
